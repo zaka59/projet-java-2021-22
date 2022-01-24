@@ -1,6 +1,6 @@
 # Projet: Compétitions Sportives
 
-***Binôme :***
+***Equipe :***
 
     GAUDIERE Yoni
     El KHAYARI Zakaria

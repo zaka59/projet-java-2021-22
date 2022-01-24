@@ -1,0 +1,12 @@
+*.class
+
+# vim
+
+*.swp
+*.swo
+
+docs/docs
+
+*.ucls
+
+*.jar
